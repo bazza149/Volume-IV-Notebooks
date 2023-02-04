@@ -15302,8 +15302,8 @@ Cell[CellGroupData[{
 
 Cell["References", "Subsubsection",
  CellChangeTimes->{{3.844128870410984*^9, 
-  3.844128872593111*^9}},ExpressionUUID->"533e7d97-d683-4647-a647-\
-4f073037aee9"],
+  3.844128872593111*^9}},ExpressionUUID->"28584f87-62fe-46b5-aee3-\
+87660ecf55bd"],
 
 Cell[TextData[{
  "[1] Blower, David J. ",
@@ -15313,8 +15313,8 @@ Automata, and Probability Manipulations",
  ". Volume I. CreateSpace, Amazon.com, May 2011."
 }], "Text",
  CellChangeTimes->{{3.844128802351816*^9, 
-  3.844128812681315*^9}},ExpressionUUID->"6dfc0bae-2252-4ab5-8ab0-\
-66e2fef6d5d3"],
+  3.844128812681315*^9}},ExpressionUUID->"73b69aab-8c13-4058-86dd-\
+cc864e8a629e"],
 
 Cell[TextData[{
  "[2] Blower, David J. ",
@@ -15323,8 +15323,8 @@ Cell[TextData[{
  ". Volume II. CreateSpace, Amazon.com, June 2013."
 }], "Text",
  CellChangeTimes->{{3.844128802351816*^9, 
-  3.844128819690901*^9}},ExpressionUUID->"aa053bd2-17e5-492b-af2a-\
-2b0eb00ca43c"],
+  3.844128819690901*^9}},ExpressionUUID->"1507b914-587e-4678-bd46-\
+a546e1b48bcb"],
 
 Cell[TextData[{
  "[3] Blower, David J. ",
@@ -15333,8 +15333,8 @@ Cell[TextData[{
  ". Volume III. CreateSpace, Amazon.com, April 2016."
 }], "Text",
  CellChangeTimes->{{3.844128802351816*^9, 
-  3.8441288225215797`*^9}},ExpressionUUID->"34ccb569-a464-4c32-9f9a-\
-570f43bb510f"],
+  3.8441288225215797`*^9}},ExpressionUUID->"4f0df558-1d89-4324-a3d2-\
+3b0eea9cafa3"],
 
 Cell[TextData[{
  "[4] Blower, David J. ",
@@ -15347,8 +15347,8 @@ September 2017."
  CellChangeTimes->{{3.844128802351816*^9, 3.844128812681315*^9}, 
    3.880866040034045*^9, {3.880866083123311*^9, 3.8808660845137777`*^9}, {
    3.880866621321165*^9, 
-   3.880866626690653*^9}},ExpressionUUID->"ffd236fc-91ed-43f2-bd2e-\
-dcef79fc42c2"],
+   3.880866626690653*^9}},ExpressionUUID->"33be058c-4630-4651-becc-\
+a689a0309b7a"],
 
 Cell[TextData[{
  "[5] Blower, David J. ",
@@ -15361,8 +15361,8 @@ Manipulations",
  CellChangeTimes->{{3.844128802351816*^9, 3.844128812681315*^9}, {
    3.846205577751319*^9, 3.846205589792697*^9}, {3.8462057207957773`*^9, 
    3.846205721160819*^9}, 3.846205779169094*^9, 
-   3.880866094989217*^9},ExpressionUUID->"f112f826-d5e3-4a5f-8097-\
-d2fb294ed6fa"],
+   3.880866094989217*^9},ExpressionUUID->"bddbabc0-b8b9-4e93-8adf-\
+1b30fa11bdfe"],
 
 Cell[TextData[StyleBox["[6] Wolfram Research, Inc., Champaign, IL (2021). \
 www.mathematica.com",
@@ -15378,8 +15378,8 @@ www.mathematica.com",
    3.851116116178553*^9, 3.8511161911397943`*^9}, {3.851116263149741*^9, 
    3.8511163088062477`*^9}, {3.851116381530364*^9, 3.8511163973596573`*^9}, {
    3.851116467226972*^9, 3.851116478310584*^9}, 3.880866100882634*^9, 
-   3.880866860101226*^9},ExpressionUUID->"e1734f24-79a4-4cc2-8984-\
-7e9392433917"]
+   3.880866860101226*^9},ExpressionUUID->"c3eefb09-eb1c-46de-aa60-\
+46ccaf758639"]
 }, Open  ]]
 }, Open  ]]
 },
@@ -15861,13 +15861,13 @@ Cell[924611, 15267, 512, 9, 34, "Text",ExpressionUUID->"52ba60cc-6277-4c6e-8c60-
 Cell[925126, 15278, 972, 19, 80, "Text",ExpressionUUID->"a3ea002d-b73f-4ebb-85aa-ccda1b2f353d"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[926135, 15302, 161, 3, 45, "Subsubsection",ExpressionUUID->"533e7d97-d683-4647-a647-4f073037aee9"],
-Cell[926299, 15307, 375, 9, 57, "Text",ExpressionUUID->"6dfc0bae-2252-4ab5-8ab0-66e2fef6d5d3"],
-Cell[926677, 15318, 322, 8, 57, "Text",ExpressionUUID->"aa053bd2-17e5-492b-af2a-2b0eb00ca43c"],
-Cell[927002, 15328, 336, 8, 57, "Text",ExpressionUUID->"34ccb569-a464-4c32-9f9a-570f43bb510f"],
-Cell[927341, 15338, 538, 12, 57, "Text",ExpressionUUID->"ffd236fc-91ed-43f2-bd2e-dcef79fc42c2"],
-Cell[927882, 15352, 560, 12, 57, "Text",ExpressionUUID->"f112f826-d5e3-4a5f-8097-d2fb294ed6fa"],
-Cell[928445, 15366, 922, 15, 34, "Text",ExpressionUUID->"e1734f24-79a4-4cc2-8984-7e9392433917"]
+Cell[926135, 15302, 161, 3, 45, "Subsubsection",ExpressionUUID->"28584f87-62fe-46b5-aee3-87660ecf55bd"],
+Cell[926299, 15307, 375, 9, 57, "Text",ExpressionUUID->"73b69aab-8c13-4058-86dd-cc864e8a629e"],
+Cell[926677, 15318, 322, 8, 57, "Text",ExpressionUUID->"1507b914-587e-4678-bd46-a546e1b48bcb"],
+Cell[927002, 15328, 336, 8, 57, "Text",ExpressionUUID->"4f0df558-1d89-4324-a3d2-3b0eea9cafa3"],
+Cell[927341, 15338, 538, 12, 57, "Text",ExpressionUUID->"33be058c-4630-4651-becc-a689a0309b7a"],
+Cell[927882, 15352, 560, 12, 57, "Text",ExpressionUUID->"bddbabc0-b8b9-4e93-8adf-1b30fa11bdfe"],
+Cell[928445, 15366, 922, 15, 34, "Text",ExpressionUUID->"c3eefb09-eb1c-46de-aa60-46ccaf758639"]
 }, Open  ]]
 }, Open  ]]
 }
