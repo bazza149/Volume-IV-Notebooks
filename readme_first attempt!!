@@ -1,6 +1,0 @@
-This GitHub project has been created in order to provide a location on the World Wide Web at which are stored the Mathematica Notebooks accompanying David Blower's Volume IV.
-There is a "Supporting Notebook" for each of the six chapters in Volume IV, and several other Notebooks connected to the Supporting Notebooks.
-There is also an "Editors' Apologia" Notebook and an "Appendix A" Notebook.
-The critical Notebook is called IP.nb, which is a Mathematica/Wolfram Language package file, from which the use creates and installs an IP.m file.
-The IP package contains definitions of all the functions used throughout the Supporting and other Notebooks, and is therefore strictly necessary for the Notebooks
-to execute as intended.
