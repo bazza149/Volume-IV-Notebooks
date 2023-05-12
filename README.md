@@ -6,3 +6,4 @@ There is a "Supporting Notebook" for each of the six chapters in Volume IV, and 
 If all the Notebooks are located in a single folder, Buttons within the Supporting Notebook for Chapter 54 will open some auxiliary Notebooks.
 An Import[] statement in the Supporting Notebook for Chapter 54 will similarly access the correct .txt data file.
 There is a Mathematica package Notebook, IP.nb, which must be installed in the user's system, since it is called by all the Supporting Notebooks.
+Also included here are the PDF files for Volumes I, I (Supplementary Execises), II, III, and IV of David Blower's "Information Processing" series.
